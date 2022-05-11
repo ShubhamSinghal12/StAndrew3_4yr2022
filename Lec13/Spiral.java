@@ -49,6 +49,7 @@ public class Spiral {
 				System.out.print(arr[i][minc]+" ");
 				ce++;
 			}
+			
 			minc++;
 			
 		}
